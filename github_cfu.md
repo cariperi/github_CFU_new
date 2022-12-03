@@ -1,0 +1,3 @@
+- `git init` initializes git tracking in a repo
+- `git add "filename"` adds a file to be tracked with git
+- `git commit -m "Message text here"` commits the changed file
